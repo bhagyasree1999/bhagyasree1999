@@ -1,7 +1,7 @@
 # Hi there, I'm Harinath Bhagya Sree Tiruvallur 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/bhagyasree1999?logo=github&style=for-the-badge)](https://github.com/bhagyasree1999?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/harinathbhagyasree)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/bhagya-sree-tiruvallur-52823718b/)
 
 ---
 
@@ -17,27 +17,7 @@
 
 ---
 
-## 💼 Featured Projects
-
-### 🔹 [Amazon Reviews Sentiment Analysis](https://github.com/bhagyasree1999/AmazonReviewsSentimentAnalysis)
-- Analyzed 400K+ reviews using NLP and ML models (SVM, Random Forest)
-- Achieved 87% classification accuracy and reduced manual effort by 70%
-- Built a reusable pipeline with Python, Pandas, and Scikit-learn
-
-### 🔹 [Naukri Job Market Analysis](https://github.com/bhagyasree1999/Naukri-Job-Market-Analysis-Project)
-- Cleaned and modeled 15K+ job postings using R
-- Built regression and decision tree models (RMSE: 0.48)
-- Delivered insights on in-demand skills and market trends
-
-### 🔹 [Secure Data Deduplication in Cloud](https://github.com/bhagyasree1999/Secure-Data-Deduplication-in-cloud)
-- Java-based project to optimize secure storage in cloud systems
-
-### 🔹 [Event Management System](https://github.com/bhagyasree1999/EventManagementSystem)
-- Designed with Python for organizing and managing events with a user-friendly interface
-
----
-
-## 🛠️ Tech Stack
+<!-- ## 🛠️ Tech Stack
 
 **Languages:** Python, Java, R, SQL, C++  
 **Tools:** Tableau, Power BI, Excel, MySQL, PostgreSQL, Git, GCP, Postman  
@@ -45,7 +25,7 @@
 **Libraries:** Pandas, NumPy, Scikit-learn, ggplot2, rpart  
 **IDEs:** Visual Studio, Jupyter Notebook, RStudio, Eclipse
 
----
+--- -->
 
 ## 🌐 Let's Connect
 
