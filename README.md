@@ -1,4 +1,4 @@
-# Hi there, I'm Harinath Bhagya Sree Tiruvallur 👋
+# Hi there, I'm Bhagya Sree 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/bhagyasree1999?logo=github&style=for-the-badge)](https://github.com/bhagyasree1999?tab=followers)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/bhagya-sree-tiruvallur-52823718b/)
