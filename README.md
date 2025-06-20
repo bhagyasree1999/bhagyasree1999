@@ -29,7 +29,7 @@
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-Harinath%20Bhagya%20Sree%20on%20LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/harinathbhagyasree)
+[![LinkedIn](https://img.shields.io/badge/-Harinath%20Bhagya%20Sree%20on%20LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bhagya-sree-tiruvallur-52823718b/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/bhagyasree1999)
 
 ---
